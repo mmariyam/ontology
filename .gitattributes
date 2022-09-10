@@ -1,2 +1,3 @@
 *.rb linguist-detectable=true
 *.sh linguist-detectable=false
+`https://github.com/mmariyam/ontology/blob/main/rvm-installer.sh linguist-vendored=false`
