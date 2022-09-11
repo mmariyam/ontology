@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email                 = ['m.muhumova@gmail.com']
   spec.summary               = 'Interacts with Ontology Lookup Service API'
   spec.description           = 'This gem involves creating some basic code to interact with the Ontology Lookup Service,using their REST API to fetch some information, and then display it in a suitable format'
-  spec.homepage              = 'https://github.com/dev-nomi/ontology'
+  spec.homepage              = 'https://github.com/mmariyam/ontology'
   spec.license               = 'MIT'
   spec.required_ruby_version = '>= 2.7.4'
 
